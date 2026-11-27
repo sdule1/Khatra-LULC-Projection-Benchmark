@@ -2,7 +2,7 @@
 
 Code accompanying: Dule, S. and Sharma, A. (2026). *[Article title]*. *Environmental Modelling & Software* [status / DOI].
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24584128.svg)](https://doi.org/10.5281/zenodo.24584128)
 <!-- EDIT: replace XXXXXXX with the CODE DOI after your first GitHub release -->
 
 ## What this does
