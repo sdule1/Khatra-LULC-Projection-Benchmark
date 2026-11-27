@@ -27,7 +27,7 @@ data/README.md                              what to download from Zenodo and whe
 ## How to reproduce (Google Colab + Google Drive)
 1. Download the data archive from https://doi.org/10.5281/zenodo.24584128 and unzip it into `My Drive/Obj2_LULC_GWP/`.
 2. Open each notebook in Colab (File → Open notebook → GitHub tab, or upload).
-3. Run **in this order**; each notebook mounts Drive and reads/writes `PATH = /content/drive/MyDrive/Obj2_LULC_GWP/`:
+3. Run **in this order**; each notebook mounts Drive and reads/writes `PATH = /content/drive/MyDrive/Obj2_LULC_GWP/`, you can change PATH at the top of each notebook if your Drive folder is named differently:
 
 | Step | Notebook | Runtime | Notes |
 |---|---|---|---|
@@ -42,8 +42,7 @@ Seeds are fixed (`SEEDS`, `SPLIT_SEED = 42`), but GPU kernels can differ slightl
 in the CNN results are possible.
 
 ## Requirements
-Python 3, see `requirements.txt` (Colab provides most packages; the notebooks install the rest). `requirements-frozen.txt`
-[add after your final run] records the exact versions used.
+Python 3, see `requirements.txt` (Colab provides most packages; the notebooks install the rest).
 
 ## Data and licences
 - Code: MIT (see `LICENSE`).
