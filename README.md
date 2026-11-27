@@ -1,6 +1,6 @@
 # Persistence-referenced benchmark of CA-ANN-Markov and CNN-Markov LULC models (Khatra, West Bengal)
 
-Code accompanying: Dule, S. and Sharma, A. (2026). *[Article title]*. *Environmental Modelling & Software* [status / DOI].
+Code accompanying: Dule, S. and Sharma, A. (2026). *Out-of-time benchmarking of CA-Markov and CNN-based land cover projection against persistence in a lateritic plateau fringe: Khatra subdivision, West Bengal, India*. *Environmental Modelling & Software* (submitted).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24584128.svg)](https://doi.org/10.5281/zenodo.24584128)
 <!-- EDIT: replace XXXXXXX with the CODE DOI after your first GitHub release -->
@@ -25,7 +25,7 @@ data/README.md                              what to download from Zenodo and whe
 ```
 
 ## How to reproduce (Google Colab + Google Drive)
-1. Download the data archive from Zenodo (link above) and unzip it into `My Drive/Obj2_LULC_GWP/`.
+1. Download the data archive from https://doi.org/10.5281/zenodo.24584128 and unzip it into `My Drive/Obj2_LULC_GWP/`.
 2. Open each notebook in Colab (File → Open notebook → GitHub tab, or upload).
 3. Run **in this order**; each notebook mounts Drive and reads/writes `PATH = /content/drive/MyDrive/Obj2_LULC_GWP/`:
 
