@@ -14,7 +14,7 @@ File | Description
 `revised_outputs_v2_anomaly/` | Model maps per seed (hindcast 2023, forecast 2033) and run tables |
 `revised_outputs_v2_REPORT/` | Comparison CSVs, `manuscript_figs_tables/` and `manuscript_maps/`
 
-All rasters share one grid: EPSG:[code], 30 m.
+All rasters share one grid: EPSG:32645 (WGS 84 / UTM zone 45N), 30 m.
 
 Original sources: Landsat (USGS EarthExplorer), SRTM (Farr et al., 2007), CHIRPS (Funk et al., 2015).
 
