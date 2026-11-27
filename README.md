@@ -2,8 +2,7 @@
 
 Code accompanying: Dule, S. and Sharma, A. (2026). *Out-of-time benchmarking of CA-Markov and CNN-based land cover projection against persistence in a lateritic plateau fringe: Khatra subdivision, West Bengal, India*. *Environmental Modelling & Software* (submitted).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24584128.svg)](https://doi.org/10.5281/zenodo.24584128)
-<!-- EDIT: replace XXXXXXX with the CODE DOI after your first GitHub release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24591663.svg)](https://doi.org/10.5281/zenodo.24591663)
 
 ## What this does
 Calibrates on 2003→2013 and hindcasts 2023 for the Khatra sub-division, compares CA-ANN-Markov, CNN-Markov and CNN-argmax
@@ -25,7 +24,7 @@ data/README.md                              what to download from Zenodo and whe
 ```
 
 ## How to reproduce (Google Colab + Google Drive)
-1. Download the data archive from https://doi.org/10.5281/zenodo.24584128 and unzip it into `My Drive/Obj2_LULC_GWP/`.
+1. Download the data archive from Zenodo (https://doi.org/10.5281/zenodo.24584128) and unzip it into `My Drive/Obj2_LULC_GWP/`.
 2. Open each notebook in Colab (File → Open notebook → GitHub tab, or upload).
 3. Run **in this order**; each notebook mounts Drive and reads/writes `PATH = /content/drive/MyDrive/Obj2_LULC_GWP/`, you can change PATH at the top of each notebook if your Drive folder is named differently:
 
@@ -45,8 +44,8 @@ in the CNN results are possible.
 Python 3, see `requirements.txt` (Colab provides most packages; the notebooks install the rest).
 
 ## Data and licences
-- Code: MIT (see `LICENSE`).
-- Data and model outputs: Zenodo, CC BY 4.0. Original imagery and climate data remain subject to the USGS Landsat, SRTM and CHIRPS terms.
+- Code: MIT (see `LICENSE`), archived at https://doi.org/10.5281/zenodo.24591663.
+- Data and model outputs: https://doi.org/10.5281/zenodo.24584128, CC BY 4.0. Original imagery and climate data remain subject to the USGS Landsat, SRTM and CHIRPS terms.
 
 ## Citation
 Please cite the article and the archived release (see `CITATION.cff`; GitHub shows a "Cite this repository" button).
