@@ -1,0 +1,12 @@
+{
+  "title": "Code for: Persistence-referenced benchmark of CA-ANN-Markov and CNN-Markov LULC models, Khatra, West Bengal",
+  "upload_type": "software",
+  "description": "Google Colab notebooks (Python) that reproduce the hindcast benchmark, 2033 Markov-rate scenarios, statistics, tables and figures of the associated article. Input rasters and outputs are archived separately on Zenodo (see README).",
+  "creators": [
+    {"name": "Dule, Suraj", "affiliation": "School of Geography, Gangadhar Meher University, Sambalpur, India"},
+    {"name": "Sharma, Arabinda", "affiliation": "School of Geography, Gangadhar Meher University, Sambalpur, India"}
+  ],
+  "license": "MIT",
+  "keywords": ["land use land cover", "CNN", "cellular automata", "Markov chain", "persistence baseline", "figure of merit", "Khatra"],
+  "access_right": "open"
+}
