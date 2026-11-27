@@ -8,11 +8,11 @@ authors:
   - family-names: Dule
     given-names: Suraj
     affiliation: "School of Geography, Gangadhar Meher University, Sambalpur, Odisha 768004, India"
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"     # EDIT or delete
+    
   - family-names: Sharma
     given-names: Arabinda
     affiliation: "School of Geography, Gangadhar Meher University, Sambalpur, Odisha 768004, India"
     email: arbind_78@rediffmail.com
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"     # EDIT or delete
-repository-code: "https://github.com/YOUR-USERNAME/khatra-lulc-benchmark"   # EDIT
-# doi: "10.5281/zenodo.XXXXXXX"      # EDIT after Zenodo issues the code DOI
+    
+repository-code: "https://github.com/sdule1/Khatra-LULC-Projection-Benchmark"   # EDIT
+# doi: "10.5281/zenodo.24584128"      # EDIT after Zenodo issues the code DOI
