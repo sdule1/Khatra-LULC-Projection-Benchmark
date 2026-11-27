@@ -1,0 +1,13 @@
+# large rasters and outputs live on Zenodo, not in git
+*.tif
+*.tiff
+*.zip
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+revised_outputs_v2_*/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

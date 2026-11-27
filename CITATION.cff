@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and this archived release."
+title: "Persistence-referenced benchmark of CA-ANN-Markov and CNN-Markov LULC models, Khatra sub-division, West Bengal"
+version: "1.0.0"
+date-released: "2026-12-01"          # EDIT: date of your GitHub release
+license: MIT
+authors:
+  - family-names: Dule
+    given-names: Suraj
+    affiliation: "School of Geography, Gangadhar Meher University, Sambalpur, Odisha 768004, India"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"     # EDIT or delete
+  - family-names: Sharma
+    given-names: Arabinda
+    affiliation: "School of Geography, Gangadhar Meher University, Sambalpur, Odisha 768004, India"
+    email: arbind_78@rediffmail.com
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"     # EDIT or delete
+repository-code: "https://github.com/YOUR-USERNAME/khatra-lulc-benchmark"   # EDIT
+# doi: "10.5281/zenodo.XXXXXXX"      # EDIT after Zenodo issues the code DOI

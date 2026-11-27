@@ -1,0 +1,14 @@
+# Colab already has most of these. Versions are intentionally unpinned here:
+# after your final run, execute `pip freeze > requirements-frozen.txt` in Colab and commit that file too.
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+rasterio
+geopandas
+pyproj
+torch
+tqdm
+openpyxl
